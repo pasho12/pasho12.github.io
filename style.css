@@ -1,19 +1,38 @@
-h1,h2 {
-    text-align: center;
-}
 body {
-    background-color: aquamarine;
+    font-family: sans-serif;
 }
-p {
-    font-size: 30px;
+header {
+    background-color: aqua;
 }
-img {
-    width: 600px;
-    margin-left: 120px;
+.pon {
+    border-radius: 10px;
+    text-decoration: none;
+    border: 10px;
 }
-a {
-    font-size: 30px;
-    text-align: center;
-    color: black;
-    font-family:Arial Black;
+.nipon {
+    color:orange;
+}
+footer p{
+    background-color: limegreen;
+}
+
+nav a {
+  font-size: 20px;  
+  color:white;
+  text-decoration: none;
+  border: 3px solid navy;
+  background-color: navy;
+  border-radius: 10px;
+  
+}
+.rob {
+    background-color:white ;
+    color: royalblue;
+}
+.ux {
+    background-color: brown;
+    border-radius: 10px;
+}
+.fredy {
+    color: blue;
 }
