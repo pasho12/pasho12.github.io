@@ -1,38 +1,21 @@
 body {
     font-family: sans-serif;
 }
-header {
-    background-color: aqua;
+h1 {
+    text-align: center;
 }
-.pon {
-    border-radius: 10px;
+h2 {
+    text-align: center;
+}
+main {
+    background-color:burlywood;
+}
+footer {
+    background-color:chocolate;
+}
+a {
+    font-size: 35px;
     text-decoration: none;
-    border: 10px;
-}
-.nipon {
-    color:orange;
-}
-footer p{
-    background-color: limegreen;
-}
-
-nav a {
-  font-size: 20px;  
-  color:white;
-  text-decoration: none;
-  border: 3px solid navy;
-  background-color: navy;
-  border-radius: 10px;
-  
-}
-.rob {
-    background-color:white ;
-    color: royalblue;
-}
-.ux {
-    background-color: brown;
-    border-radius: 10px;
-}
-.fredy {
-    color: blue;
+    color: coral;
+    margin-left: 75px;
 }
